@@ -1,2 +1,4 @@
 # lrose-alpha
-Alpha release for lrose
+Alpha releases for lrose core.
+This is a staging and testing area.
+
