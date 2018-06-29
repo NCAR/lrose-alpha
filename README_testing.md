@@ -82,3 +82,7 @@ doc  hdf5_examples  info  man  udunits
    29  ls /usr/local/lrose/share/
    30  history
    ```
+
+## RPM for centos
+
+Built and tested using these [steps](https://github.com/NCAR/lrose-examples/blob/master/tests/RPM/README_CREATE_PACKAGE.md)
